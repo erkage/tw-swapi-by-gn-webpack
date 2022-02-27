@@ -3,7 +3,7 @@
 A basic SPA for list People and their Planet details using [SWAPI - The Star Wars API](https://swapi.dev/).
 
 ## Demo
-[TBA](TBA)
+[tw-swapi-by-gn.netlify.app](https://tw-swapi-by-gn.netlify.app)
 
 ## Features
 - Load People data
