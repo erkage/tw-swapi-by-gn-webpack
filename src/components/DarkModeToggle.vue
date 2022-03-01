@@ -1,7 +1,7 @@
 <template>
 	<div @click="darkMode = !darkMode">
-		<img v-if="darkMode" src="@/assets/icons/saber_green_jedi.svg">
-		<img v-else src="@/assets/icons/saber_red_sith.svg">
+		<img v-if="darkMode" src="@/assets/icons/saber_green_jedi.svg" alt="dark mode off">
+		<img v-else src="@/assets/icons/saber_red_sith.svg" alt="dark mode on">
 	</div>
 </template>
 

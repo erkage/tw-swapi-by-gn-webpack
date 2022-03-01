@@ -1,5 +1,5 @@
 <template>
-	<img class="loading-anim" src="@/assets/icons/bb8.svg" />
+	<img class="loading-anim" src="@/assets/icons/bb8.svg" alt="loading in progress">
 </template>
 
 <script setup>

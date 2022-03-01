@@ -39,7 +39,7 @@ npm run build
 npm run lint
 ```
 
-## Further improvements ideas
+## Further improvement ideas
 - [ ] caching the fetched data with sessionStorage or localStorage
 - [ ] optimized way to get Planet names and show it instead of urls
 - [ ] show the original sorting would be easier to handle if people would have an Id.
@@ -50,7 +50,7 @@ npm run lint
 - [ ] add more Star Wars stuff 😉
 
 ## Copyright
-Star Wars and all associated names are copyright Lucasfilm ltd.
+Star Wars and all associated names are copyright Lucasfilm Ltd.
 
 ### Icons
 - BB-8: https://www.iconfinder.com/R.Fidel

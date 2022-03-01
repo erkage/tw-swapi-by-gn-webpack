@@ -22,6 +22,7 @@
 							<img 
 								v-if="state.sortBy === '' || state.sortBy === column.name" 
 								:src="require('@/assets/icons/sort_icon' + sortIcon + '.svg')"
+								:alt="`sort${sortIcon.replace('_', ' ')}`"
 							>
 						</transition>
 					</th>
@@ -63,6 +64,7 @@
 
 	<div id="ts-yellow" class="tatooine-sun"></div>
 	<div id="ts-red" class="tatooine-sun"></div>
+	
 </template>
 
 
